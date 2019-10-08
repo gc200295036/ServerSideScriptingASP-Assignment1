@@ -1,0 +1,6 @@
+C:\Users\Owner\Desktop\School Work Semester 3\SqlServer\bin\Debug\SqlServer.dacpac
+C:\Users\Owner\Desktop\School Work Semester 3\SqlServer\bin\Debug\SqlServer.dll
+C:\Users\Owner\Desktop\School Work Semester 3\SqlServer\bin\Debug\SqlServer.pdb
+C:\Users\Owner\Desktop\School Work Semester 3\SqlServer\obj\Debug\SqlServer.sqlprojAssemblyReference.cache
+C:\Users\Owner\Desktop\School Work Semester 3\SqlServer\obj\Debug\SqlServer.dll
+C:\Users\Owner\Desktop\School Work Semester 3\SqlServer\obj\Debug\SqlServer.pdb
